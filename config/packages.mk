@@ -3,7 +3,6 @@ PRODUCT_PACKAGES += \
     DerpSetupWizard \
     Prospect \
     GameSpace \
-    NetworkStackOverlay \
     NoCombinedIconsOverlay \
     Panic \
     RepainterServicePriv \
